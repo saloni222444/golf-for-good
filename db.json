@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "System Admin",
+      "email": "admin@golfcharity.com",
+      "passwordHash": "admin123",
+      "role": "admin",
+      "createdAt": "2026-04-02T17:30:29.185Z"
+    }
+  ],
+  "subscriptions": [],
+  "scores": [],
+  "draws": [],
+  "winners": [],
+  "charities": [
+    {
+      "id": "charity-1",
+      "name": "Junior Golf Foundation",
+      "description": "Supporting young golfers from underprivileged backgrounds.",
+      "totalReceivedAmount": 0,
+      "createdAt": "2026-04-02T17:30:29.186Z"
+    },
+    {
+      "id": "charity-2",
+      "name": "Green Fairways",
+      "description": "Environmental conservation on golf courses.",
+      "totalReceivedAmount": 0,
+      "createdAt": "2026-04-02T17:30:29.186Z"
+    }
+  ],
+  "config": {
+    "jackpotPool": 0
+  }
+}
